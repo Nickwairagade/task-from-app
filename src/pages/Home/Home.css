@@ -1,0 +1,13 @@
+.container{
+    padding: 10px;
+}
+.container .main_div .filter_div{
+    background-color: #ecf7e9;
+    padding: 10px;
+}
+
+/* @media screen and (min-width: 768px) {
+    .container .search{
+        flex-direction: row;
+    }
+} */
